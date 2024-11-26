@@ -1,0 +1,25 @@
+Room size: 3mx5mx2.50m
+Renovations: repainting walls and replacing floor panels
+
+Needed materials: paint (white), paint (blue) primer, gypsum finish, underlayment, flooring panels, skirting boards, assembly adhesive
+Needed tools: brushes, paint rollers, paint tray, wrenches, floor cutter
+
+Day 1:
+    - removing furniture and curtain rods from the room (2h)
+    - removing power outlets, light switches and the ceiling lamp and securing the wires (1h)
+    - removing current flooring (2.5h)
+    - prepearing walls and ceiling for painting, that is (3h)
+
+Day 2:
+    - painting walls and ceiling white (8h)
+    - painting blue decorations on walls (1h)
+
+Day 3:
+    - laying new flooring and installing skirting boards(7h)
+
+Day 4:
+    - reattachng power outlets, light switches and the ceiling lamp (1h)
+    - reinstalling curtain rods (0.5h)
+    - cleaning the room (1h)
+    - furnishing the room (2h)
+
