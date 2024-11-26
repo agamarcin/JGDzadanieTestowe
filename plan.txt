@@ -5,21 +5,20 @@ Needed materials: paint (white), paint (blue) primer, gypsum finish, underlaymen
 Needed tools: brushes, paint rollers, paint tray, wrenches, floor cutter
 
 Day 1:
-    - removing furniture and curtain rods from the room (2h)
-    - removing power outlets, light switches and the ceiling lamp and securing the wires (1h)
-    - removing current flooring (2.5h)
-    - prepearing walls and ceiling for painting, that is (3h)
+    - remove furniture and curtain rods from the room (2h)
+    - remove power outlets, light switches, the ceiling lamp and secure the wires (1h)
+    - remove current flooring (2.5h)
+    - prepare the walls and ceiling for painting (3h)
 
 Day 2:
-    - painting walls and ceiling white (8h)
-    - painting blue decorations on walls (1h)
+    - paint walls and ceiling white (8h)
+    - paint blue decorations on walls (1h)
 
 Day 3:
-    - laying new flooring and installing skirting boards(7h)
+    - lay new flooring and install skirting boards(7h)
 
 Day 4:
-    - reattachng power outlets, light switches and the ceiling lamp (1h)
-    - reinstalling curtain rods (0.5h)
-    - cleaning the room (1h)
-    - furnishing the room (2h)
-
+    - reattach power outlets, light switches and the ceiling lamp (1h)
+    - reinstall curtain rods (0.5h)
+    - clean the room (1h)
+    - furnish the room (2h)
